@@ -65,12 +65,6 @@ const iconTheme = "bx-sun";
 const selectedTheme = localStorage.getItem("selected-theme");
 const selectedIcon = localStorage.getItem("selected-icon");
 
-// Check the selected theme from localStorage or set default to dark
-if (!selectedTheme) {
-  selectedTheme = "dark";
-  localStorage.setItem("selected-theme", selectedTheme);
-}
-
 // We obtain the current theme that the interface has by validating the dark-theme class
 const getCurrentTheme = () =>
   document.body.classList.contains(darkTheme) ? "dark" : "light";
