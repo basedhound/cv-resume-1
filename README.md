@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://sushi-2-fv.netlify.app" target="_blank">
-      <img src="design/preview.webp" alt="Project Banner">
+      <img src="design/dark-preview.webp" alt="Project Banner">
     </a>
   <h3 align="center">Resume - CV</h3>
 </div>
