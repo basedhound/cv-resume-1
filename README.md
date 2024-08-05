@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://sushi-2-fv.netlify.app" target="_blank">
-      <img src="design/dark-preview.webp" alt="Project Banner">
+      <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Resume - CV</h3>
 </div>
@@ -22,7 +22,7 @@
 - HTML
 - CSS
 - JavaScript
-- Sass
+- Sass [📄](https://sass-lang.com/documentation) 
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
